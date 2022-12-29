@@ -1,2 +1,2 @@
-my file from Master branch before change
-no changes
+my file from Master branch AFTER change
+no changes making changes to the file on pzbranch
